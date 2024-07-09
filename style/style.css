@@ -1,0 +1,13 @@
+.card{
+    display: flex;
+    
+    align-items: center;
+   background-color: aqua;
+}
+h5{
+    text-align: center;
+}
+.img{
+    border: 1px solid black;
+    border-radius: 50px
+}
